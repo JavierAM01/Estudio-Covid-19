@@ -359,7 +359,7 @@ Incidencias acumuladas a 14 días y de los correspondientes Niveles de alerta.**
 
 Esta vez haremos una comparativa entre la incidencia acumulada a 14 días, entre España y Madrid (en mi caso). Además también compararemos
 los niveles de alerta de ambos, donde estos serán representados de manera escalonada y cada uno con un color distinto para que puedan ser
-fácilmente diferenciados. Con respecto al código, únicamente utilizaremos la función acumulador definida en el apartado 2.6 y las gráficas
+fácilmente diferenciados. Con respecto al código, únicamente utilizaremos la función acumulador definida en el apartado 6 y las gráficas
 las separaremos de forma horizontal con el comando subplot.
 
 ```scilab
