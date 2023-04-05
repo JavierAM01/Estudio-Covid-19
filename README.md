@@ -169,7 +169,7 @@ facilitado con el nombre *datos_ccaas_31enero_23octubre.csv*, que contiene los d
 de Vigilancia Epidemiológica (RENAVE), con fechas comprendidas entre el 31 de enero y el 23 de octubre de 2020 (ambos días incluidos)**
 
 <div style="text-align:center;">
-  <image src="/images/tabla.png" style="width:50%;">
+  <image src="/images/tabla.png" style="width:70%;">
 </div>
 
 **El campo ccaa_iso representa el código ISO de la Comunidad Autónoma. El campo fecha representa el día al que está asociado el correspondiente dato. 
